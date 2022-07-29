@@ -1,0 +1,65 @@
+.contenedor_general {
+    width: 375px;
+    height: 667px;
+    text-align: center;
+}
+.logo {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 100%;
+
+    margin:auto;
+    margin-top: 9rem;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.username {
+    margin-top: 8rem;
+    border-top: 0ch;
+    border-right: 0ch;
+    border-left: 0ch;
+    border-color: rgb(161,159,159);
+    width: 25rem;
+    height: 3rem;
+}
+
+.password {
+    margin-top: 4rem;
+    border-top: 0ch;
+    border-right: 0ch;
+    border-left: 0ch;
+    border-color: rgb(161, 159, 159);
+    width: 25rem;
+    height: 3rem;
+}
+
+.texto {
+    margin-left: 15rem;
+    margin-top: 2rem;
+    color: rgb(161,159,159);
+}
+
+.boton {
+    background-color: rgba(189,189,189,255);
+    width: 25.5rem;
+    height: 3rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin-top: 3rem;
+    margin-left: 6rem;
+}
+
+ .link {
+    background-color: rgba(189,189,189,255);
+    margin: 1rem;
+    color: aliceblue;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 2.5rem;
+ }

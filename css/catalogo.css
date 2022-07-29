@@ -1,0 +1,123 @@
+header {
+    height: 4rem;
+}
+.contenedor_padre {
+    display: flex;
+    flex-direction:row-reverse;
+}
+
+.salir {
+    font-size: 1.2rem;
+    margin: 4rem;
+    margin-top: 0.5rem;
+    color: rgb(161, 159, 159);
+    text-decoration: none;
+}
+
+ .explo, .Filter {
+    font-size: 1.2rem;
+    margin: 4rem;
+    margin-top: 2rem;
+    color: rgb(161, 159, 159);
+}
+
+.fondo {
+    background-color: rgb(162, 162, 162);
+    width: 374px;
+    height: 1070px;
+    display: flex;
+    flex-direction: column;
+}
+
+.producto_1 {
+    height: 17rem;
+    width: 37.5rem;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0.1rem;
+}
+.producto {
+    width: 14rem;
+    height: 14rem;
+    margin: 1rem;
+}
+
+.letras {
+    background-color: white;
+    display: flex;
+    flex-direction:column;
+}
+
+.letras {
+    margin: 1rem;
+}
+.nombre {
+    font-size: 1.5rem;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+.by {
+    color:gray;
+    background-color: white;
+    font-size: 1.5rem;
+}
+
+.final {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+
+.label {
+    background-color: gray;
+    border-radius: 0.3rem;
+    width: 5rem;
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+}
+
+.comentarios {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+
+.comentarios img{
+    height: 2rem;
+    width: 2rem;
+}
+
+.com {
+    background-color: white;
+    margin: 0.5rem;
+    margin-left: 1rem;
+    color: gray;
+    font-size: 1.2rem;
+}
+
+.menú {
+    height: 4.7rem;
+    width: 37.5rem;
+    background-color: white;
+    border: 1rem;
+    border-color: black;
+
+    position: fixed;
+    bottom: 0;
+    margin: auto;
+}
+
+.menú img {
+    width: 3rem;
+    height: auto;
+    margin: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: white;
+}

@@ -1,0 +1,130 @@
+.imagen {
+    width: 35rem;
+    height: auto;
+    margin: 1.5rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.descripcion {
+    background-color: white;
+    height: 90rem;
+    width: 37.5rem;
+}
+
+.Circulos {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+.circulos {
+    background-color: gray;
+    border-radius: 100%;
+    height: 0.7rem;
+    width: 0.7rem;
+    margin: 0.5rem;
+    margin-top: 1rem;   
+}
+
+.nombreP {
+    background-color: white;
+    margin-left: 2.5rem;
+    margin-top: 1rem;
+    font-size: 2.5rem;
+}
+h3 {
+    margin: 1rem;
+    margin-left: 2.7rem;
+    background-color: white;
+    color: gray;
+}
+
+.iconos {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 2.7rem;
+}
+
+.like {
+    display: flex;
+    flex-direction: row;
+    height: 3.5rem;
+    width: 8rem;
+    border: 0.2rem;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+    border-radius: 0.3rem;
+}
+.like img {
+    width: 2rem;
+    height: 2rem;
+    margin: 0.3rem;
+    margin-left: 0.9rem;
+}
+
+.Ltexto {
+    color: black;
+    background-color: white;
+    margin: 1rem;
+}
+
+.comentario {
+    display: flex;
+    flex-direction: row;
+    height: 3.5rem;
+    width: 12rem;
+    border: 0.2rem;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+    border-radius: 0.3rem;
+    margin-left: 2rem;
+}
+.comentario img {
+    width: 2rem;
+    height: 2rem;
+    margin: 0.4rem;
+    margin-left: 1rem;
+}
+
+.comentarioL {
+    color: black;
+    background-color: white;
+    margin: 0.7rem;
+    margin-left: 0.7rem;
+    font-size: 1.3rem;
+}
+
+.descripcionP {
+    margin: 2.7rem;
+    font-size: 1.3rem;
+    background-color: white;
+}
+
+.menú {
+    height: 4.7rem;
+    width: 37.5rem;
+    background-color: white;
+    border: 1rem;
+    border-color: black;
+
+    position: fixed;
+    bottom: 0;
+    margin: auto;
+}
+
+.menú img{
+    width: 3.5rem;
+    height: auto;
+    margin-left: 15rem;
+    background-color: white;
+}
+
+.vinculo {
+    text-decoration: none;
+    background-color: white;
+}
